@@ -17,10 +17,32 @@ Puedes añadir adicionalmente la conversación completa como link o archivo adju
 ## 1. Descripción general del producto
 
 **Prompt 1:**
+Eres un consultor senior de Mackinsey.
+Estas pensando en desarrollar una nueva idea de negocio. Ésta se basa en la creaión de un CRM enfocado en la industria del infoproduto en España.
+Te gustaría saber:
+-Tamaño de esta industria
+-Tipo de potenciales clientes que hay agrupados en nivel de facturación
+-Tipo de potenciales clientes que hay agrupados en sectores
+-Facturacion de cada sector
+-Dificualtades a las que se enfentan
+-Como estan solucionando esos incidentes hasta ahora
+-Competidores que ofrecen soluciones similares a la que quieres desarrollar
 
 **Prompt 2:**
+Basándote en tu respuesta anterior. Crees que es buena idea crear un CRM vertical para los entrenadores online? 
+
+Normalmente estos profesionales venden planes de entrenamiento siguiendo este flujo:
+1. Crean contenido en instagram
+2. Generan Call to Actions (CTAs) para que los potenciales cleintes(leads) les escriban por Mensaje Directo (DM).
+3. Un Setter entabla una conversaión por el chat para descubrr si les puede ayudar con el pan de entrenamiento. Si es que si les proponen agendar una llamada
+4. Un Closer atiende esas llamadas agendadas y cierra el programa de alto valor (500/1000€) por trimestre
+
+Cúal serdía tu estrategia de Go to Market?
 
 **Prompt 3:**
+Eres un analista de software experto. Estoy construyendo un El CRM para entrenadores online. Enumera y describe brevemente los casos de uso más importantes a implementar para lograr una funcionalidad básica.
+
+
 
 ---
 
