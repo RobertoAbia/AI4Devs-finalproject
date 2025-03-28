@@ -121,8 +121,16 @@ Eres un analista de software experto. Estoy construyendo un El CRM para entrenad
 ### 5. Historias de Usuario
 
 **Prompt 1:**
+Dado el objetivo de producto crear un CRM para entrenadores online y las funcionalidades principales:
+* * * *Centralizar la gestión de comunicaciones con leads 
+* Automatizar el seguimiento y clasificación de leads 
+* Optimizar el proceso de ventas mediante herramientas de inteligencia artificial
+* Facilitar el seguimiento de comisiones para setters y closers,
+define los títulos de las historias de usuario principales siguiendo el formato estándar
+
 
 **Prompt 2:**
+Teniendo en cuenta estos criterios de priorización: Valor del Negocio: Identificar las user stories y mejoras que aportan el mayor valor al negocio o a los usuarios finales. Esto incluye impacto en la retención de usuarios, atractivo para nuevos usuarios y potencial de ingresos. Urgencia: Determinar qué características son más urgentes en términos de necesidades del mercado o compromisos con los stakeholders. Dependencias: Reconocer y priorizar tareas que otras tareas dependen para su implementación. Esto asegura un flujo de trabajo lógico y eficiente. Coste de implementación: Considerar el esfuerzo, los recursos y el tiempo necesarios para cada tarea. Priorizar aquellas con la mejor relación costo-beneficio. Riesgos y obstáculos potenciales: Evaluar los riesgos asociados con cada user story o mejora y su impacto potencial en el proyecto. Feedback del usuario: Integrar las opiniones y preferencias de los usuarios, especialmente en áreas críticas de la interfaz de usuario y la experiencia del usuario. Madurez tecnológica: Considerar la madurez y la viabilidad de las soluciones tecnológicas propuestas para cada tarea. Dime todas las historias de usuario ordenadas por prioridad al documento
 
 **Prompt 3:**
 
@@ -131,11 +139,11 @@ Eres un analista de software experto. Estoy construyendo un El CRM para entrenad
 ### 6. Tickets de Trabajo
 
 **Prompt 1:**
-
+Considerando el resultado anterior, donde se detallan las historias de usuario del backlog y sus prioridades en función de varios factores. Dime los tickets de trabajo necesarios para completar el backlog
 **Prompt 2:**
-
+Eres un manager de un equipo de desarrolladores, creame lo s tikets de trabajo necesario para llevar a cabo el proyecto
 **Prompt 3:**
-
+Basado en tu respuesta anterior, redactame todos los subtikets que haya que trasmitir al equipo por favor
 ---
 
 ### 7. Pull Requests
